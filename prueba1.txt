@@ -1,0 +1,2 @@
+esta es la primera linea del archivo de prueba1
+esta es la segunda linea del archivo de prueba1
